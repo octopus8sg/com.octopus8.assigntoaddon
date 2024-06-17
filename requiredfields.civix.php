@@ -8,7 +8,7 @@
  */
 class CRM_Requiredfields_ExtensionUtil {
   const SHORT_NAME = 'requiredfields';
-  const LONG_NAME = 'requiredfields';
+  const LONG_NAME = 'com.octopus8.requiredfields';
   const CLASS_PREFIX = 'CRM_Requiredfields';
 
   /**
