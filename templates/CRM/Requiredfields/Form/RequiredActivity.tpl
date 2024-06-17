@@ -37,6 +37,13 @@
   <div class="clear"></div>
 </div>
 
+{* Required Checkbox *}
+<div class="crm-section">
+  <div class="label">{$form.required.label}</div>
+  <div class="content">{$form.required.html}</div>
+  <div class="clear"></div>
+</div>
+
 
 {* FOOTER *}
 <div class="crm-submit-buttons">
